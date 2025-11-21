@@ -1,7 +1,7 @@
 """
 Applet: City Lights
 Summary: Nighttime cityscape
-Description: City Lights generates a random and mesmorizing nighttime cityscape.
+Description: City Lights generates a random and mesmerizing nighttime cityscapes.
 Author: Nicholas Arent
 """
 
